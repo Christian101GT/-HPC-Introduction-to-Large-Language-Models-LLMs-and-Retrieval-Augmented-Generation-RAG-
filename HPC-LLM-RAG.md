@@ -2,7 +2,7 @@
 
 
 ## 🎯 **Goal**  
-🤖 **Learn how to implement Large Language Models (LLMs) with Retrieval-Augmented Generation (RAG) efficiently using CSUSB HPC.**
+🤖 **Learn how to efficiently use Large Language Models (LLMs) with Retrieval-Augmented Generation (RAG) on CSUSB HPC to improve accuracy by integrating external knowledge retrieval.
 Traditional LLMs struggle with retrieving up-to-date information. **RAG enhances LLMs** by integrating external knowledge retrieval, improving accuracy for tasks like answering complex queries.  
 
 ---
@@ -17,7 +17,7 @@ Traditional LLMs struggle with retrieving up-to-date information. **RAG enhances
 
 ---
 
-## 🚀 **1. Retrieval-Augmented Generation (RAG) Overvie**
+## 🚀 **1. 🤖 What is Retrieval-Augmented Generation (RAG)?
 
 
 ## 📌 **Introduction**
